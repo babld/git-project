@@ -1,0 +1,4 @@
+#log folder
+logs/
+#all php in doc
+doc/*.php
